@@ -86,7 +86,13 @@ public class Person {
 
     @Override
     public boolean equals(Object o) {
-        // TODO: 29.09.2023 CODE:
+        // TODO: 29.09.2023 Сравнить по ссылке 
+
+        // TODO: 29.09.2023 Сравнить типы данных
+
+        // TODO: 29.09.2023 Сравнить значения полей 
+
+        // TODO: 29.09.2023 Вернуть истину или ложь (true/false)
         return false;
     }
 
